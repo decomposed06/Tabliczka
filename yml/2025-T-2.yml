@@ -1,0 +1,35 @@
+filename: 'csv/WLT-2025-T-2.csv'
+output: 'pdf/2025-T-2.pdf'
+linelogo: '/home/tomek/Dokumenta/Klub/WLT-2025/T.png'
+legenda:
+    P: 'Kurs z przewodnikiem.'
+    M: 'Kurs obsługiwany przez Miejskie Przedsiębiorstwo Komunikacyjne.'
+    S: 'Kursuje tylko w soboty w wakacje (28.06.2025 - 31.08.2025).'
+    N: 'Kursuje tylko w niedziele.'
+    R: 'Nie kursuje w soboty w wakacje (28.06.2025 - 31.08.2025)'
+    Z: 'Zjazd do Zajezdni Popowice przez pl. Orląt Lwowskich, TAT, Śrubową, Legnicką.'
+    X: 'Zjazd do Zajezdni Ołbin przez Krupniczą, Mosty Pomorskie, pl. Staszica, pl. Powstańców Wielkopolskich.'
+napisy:
+    id: 'KSTM/4/2025'
+    a: 'Wrocławskie Linie Turystyczne'
+    a_adjust: 18
+    b: 'Kursuje od 1.05. do 28.09.2025 r. w soboty, niedziele i święta oraz 2.05.2025 i 20.06.2025.'
+    b_adjust: 82
+    c: 'ODJAZDY'
+    c_adjust: 90
+    d: 'Bilety można zakupić w pojeździe ale obowiązuje również taryfa miejska.'
+    e: 'Więcej informacji o Wrocławskich Liniach Turystycznych:'
+    f: 'https://kstm.pl/pl/wroclawskie-linie-turystyczne.html'
+tabela:
+    odsuniecie: 155
+    margines_lewy: 10
+    wysokosc: 117
+logo:
+    kstm_big: 0
+    kstm: 0
+    mpk: 0
+    tmw: 0
+    qr: 1
+przystanki:
+    odstep: 3.5
+schema_path: '/home/tomek/Dokumenta/Klub/WLT-2025/wlt-2025-T.png'
